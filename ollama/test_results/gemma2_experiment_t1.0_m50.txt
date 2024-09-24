@@ -1,0 +1,17 @@
+Total Tokens: 59
+Total Time: 3.9297 seconds
+Time to generate first token: 0.1646 seconds
+Average Token Latency: 66.6047 ms/token
+
+Final Generated Text:
+Diamond dust on velvet night,
+A million pinpricks, shining bright.
+Ancient fires, burning far,
+Whispering stories from afar.
+
+Silent giants, cold and grand,
+Guiding lost souls, hand in hand.
+Across the void, their light descends,
+A cosmic dance, that never ends. 
+
+

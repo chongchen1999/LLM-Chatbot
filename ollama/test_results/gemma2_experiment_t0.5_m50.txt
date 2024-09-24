@@ -1,0 +1,17 @@
+Total Tokens: 65
+Total Time: 4.2395 seconds
+Time to generate first token: 0.1768 seconds
+Average Token Latency: 65.2234 ms/token
+
+Final Generated Text:
+Diamonds scattered on black velvet night,
+A million tiny pinpricks, burning bright.
+They whisper stories of cosmic dust,
+Of ancient suns and nebulous trust.
+
+Across the void, their light does creep,
+A silent dance, while mortals sleep.
+Each twinkling spark, a distant fire,
+Igniting dreams and fueling desire. 
+
+

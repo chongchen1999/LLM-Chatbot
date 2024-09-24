@@ -1,0 +1,17 @@
+Total Tokens: 62
+Total Time: 4.2194 seconds
+Time to generate first token: 0.1550 seconds
+Average Token Latency: 68.0546 ms/token
+
+Final Generated Text:
+Diamonds scattered on velvet night,
+A million tiny, burning lights.
+They whisper stories, old and deep,
+Of cosmic dust and secrets to keep.
+
+Across the void, their light does gleam,
+A silent symphony, a cosmic dream.
+We gaze in awe, our spirits soar,
+Lost in wonder, forevermore. 
+
+

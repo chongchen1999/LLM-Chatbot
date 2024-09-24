@@ -1,0 +1,7 @@
+Total Tokens: 10
+Total Time: 16.1390 seconds
+Time to generate first token: 15.3771 seconds
+Average Token Latency: 1613.8985 ms/token
+
+Final Generated Text:
+The capital of France is **Paris**. 🇫🇷  

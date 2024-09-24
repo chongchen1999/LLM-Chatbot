@@ -1,0 +1,17 @@
+Total Tokens: 59
+Total Time: 3.7996 seconds
+Time to generate first token: 0.1544 seconds
+Average Token Latency: 64.3992 ms/token
+
+Final Generated Text:
+Diamonds scattered on velvet night,
+A million tiny, burning lights.
+They whisper tales of worlds afar,
+Of cosmic dust and ancient scars.
+
+Each twinkling point, a sun's embrace,
+Holding planets in their fiery grace.
+We gaze above, with wonder filled,
+By secrets stars have long instilled. 
+
+

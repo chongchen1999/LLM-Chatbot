@@ -1,0 +1,22 @@
+Total Tokens: 106
+Total Time: 2.8493 seconds
+Time to generate first token: 0.1693 seconds
+Average Token Latency: 26.8803 ms/token
+
+Final Generated Text:
+Here is a short poem about the stars:
+
+Across the velvet sky so bright,
+The stars shine down with gentle light.
+Like diamonds scattered far and wide,
+Their twinkle whispers secrets inside.
+
+In constellations, they align,
+Guiding dreams and making hearts entwine.
+A celestial show, so pure and true,
+A reflection of all that's new.
+
+Oh, starry night, how you delight,
+With mysteries and magic in sight.
+May your soft glow guide us along,
+To the wonders that the universe has sung.

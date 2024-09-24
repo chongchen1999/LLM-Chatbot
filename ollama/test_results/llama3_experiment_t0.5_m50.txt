@@ -1,0 +1,22 @@
+Total Tokens: 111
+Total Time: 2.9297 seconds
+Time to generate first token: 0.1497 seconds
+Average Token Latency: 26.3935 ms/token
+
+Final Generated Text:
+Here is a short poem about the stars:
+
+The stars up in the sky so bright,
+A twinkling show, both day and night.
+Like diamonds scattered far and wide,
+Their beauty takes my breath inside.
+
+In their celestial dance, I see,
+A magic that's meant to be.
+Guiding lights on life's winding way,
+To lead me through each new day.
+
+Oh, stars above, you shine so bold,
+A constant reminder of stories untold.
+May your sparkle light the path ahead,
+And fill my heart with wonder and joy instead.

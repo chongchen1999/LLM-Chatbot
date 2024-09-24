@@ -1,0 +1,22 @@
+Total Tokens: 106
+Total Time: 2.6503 seconds
+Time to generate first token: 0.1501 seconds
+Average Token Latency: 25.0029 ms/token
+
+Final Generated Text:
+Here is a short poem about the stars:
+
+Across the velvet sky so bright,
+A twinkling tapestry takes flight.
+Stars shine like diamonds in the night,
+Guiding dreams and hopes to take flight.
+
+Their gentle sparkle fills the air,
+As if the universe did care.
+For in their light, we find our way,
+Through the darkness of each passing day.
+
+So let us gaze upon their glow,
+And let our spirits start to flow.
+For in the stars' celestial show,
+We find a magic that will forever grow.

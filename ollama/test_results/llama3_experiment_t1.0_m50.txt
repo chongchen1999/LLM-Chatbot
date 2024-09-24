@@ -1,0 +1,22 @@
+Total Tokens: 103
+Total Time: 2.5795 seconds
+Time to generate first token: 0.1494 seconds
+Average Token Latency: 25.0436 ms/token
+
+Final Generated Text:
+Here is a short poem about the stars:
+
+Across the velvet sky so bright,
+A twinkling tapestry, pure delight.
+Stars of gold and silver shine,
+Guiding lights, a celestial sign.
+
+Their gentle sparkle reaches me,
+A reminder of eternity.
+In their soft glow, I am free,
+To dream, to hope, to simply be.
+
+So let me gaze upon the night,
+And find my way by starlight bright.
+For in those diamonds up above,
+I see a beauty that is pure love.

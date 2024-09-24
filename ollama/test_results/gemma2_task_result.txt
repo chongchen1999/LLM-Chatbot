@@ -1,0 +1,43 @@
+Total Tokens: 506
+Total Time: 29.3601 seconds
+Time to generate first token: 0.2044 seconds
+Average Token Latency: 58.0239 ms/token
+
+Final Generated Text:
+##  Einstein's Theory of Relativity: A Simplified Explanation
+
+Albert Einstein's theory of relativity is actually two theories: **special relativity** and **general relativity**. 
+
+**Special Relativity (1905):**
+
+* **Deals with:** The relationship between space and time for objects moving at constant speeds.
+* **Key Concepts:**
+    * **The speed of light is constant:**  No matter how fast you are moving, light always travels at the same speed (approximately 299,792,458 meters per second).
+    * **Time is relative:** Time passes differently for observers moving at different speeds. The faster you move, the slower time passes for you relative to someone standing still. This is called **time dilation**.
+    * **Length is relative:**  Objects appear shorter in the direction of motion when observed from a stationary frame of reference. This is called **length contraction**.
+    * **Mass and energy are equivalent:**  The famous equation E=mc² shows that mass can be converted into energy and vice versa.
+
+**General Relativity (1915):**
+
+* **Deals with:** Gravity and its effects on space and time.
+* **Key Concepts:**
+    * **Gravity is not a force:** Instead, it's the curvature of spacetime caused by massive objects. Imagine a bowling ball on a trampoline; it creates a dip, causing smaller objects to roll towards it. Similarly, massive objects warp spacetime, influencing the motion of other objects.
+    * **Spacetime is a four-dimensional fabric:** It combines three dimensions of space (length, width, height) with one dimension of time.
+    * **Light bends in a gravitational field:** Because gravity warps spacetime, even light follows a curved path around massive objects. This phenomenon is called **gravitational lensing**.
+
+**Implications and Applications:**
+
+Einstein's theory of relativity has had a profound impact on our understanding of the universe:
+
+* **Cosmology:** It explains the expansion of the universe and the existence of black holes.
+* **GPS Technology:**  Satellites use general relativity to account for time dilation due to their speed and weaker gravity, ensuring accurate positioning.
+* **Nuclear Energy:** E=mc² is the basis for nuclear power and weapons.
+
+**Further Exploration:**
+
+This is a very simplified explanation. For a deeper understanding, you can explore resources like:
+
+* **Books:** "A Brief History of Time" by Stephen Hawking, "Relativity: The Special and General Theory" by Albert Einstein
+* **Websites:** NASA's website, Khan Academy's physics section
+
+

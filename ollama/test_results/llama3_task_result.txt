@@ -1,0 +1,35 @@
+Total Tokens: 593
+Total Time: 14.7201 seconds
+Time to generate first token: 0.1596 seconds
+Average Token Latency: 24.8230 ms/token
+
+Final Generated Text:
+The theory of relativity, developed by Albert Einstein in the early 20th century, is a fundamental concept in modern physics that challenges traditional notions of space and time. The theory consists of two main components: special relativity and general relativity.
+
+**Special Relativity (1905)**
+
+In special relativity, Einstein proposed that the laws of physics are the same for all observers, regardless of their relative motion. This idea contradicted the long-held notion that a universal time and space existed independently of observers. The theory postulates that:
+
+1. **The speed of light is always constant**: Regardless of the observer's motion or position, the speed of light in vacuum remains the same (approximately 186,282 miles per second).
+2. **Time dilation occurs**: When an object moves at high speeds relative to an observer, time appears to pass more slowly for the moving object. This effect becomes more pronounced as the object approaches the speed of light.
+3. **Length contraction occurs**: Objects appear shorter to observers when they are moving at high speeds relative to them. This effect also increases as the object approaches the speed of light.
+4. **Relativity of simultaneity**: Two events that are simultaneous for one observer may not be simultaneous for another observer in a different state of motion.
+
+**General Relativity (1915)**
+
+In general relativity, Einstein expanded on his earlier work by introducing the concept of gravity as the curvature of spacetime caused by massive objects. The theory postulates that:
+
+1. **Spacetime is curved**: Massive objects warp the fabric of spacetime around them, affecting the path of other objects with mass.
+2. **Gravitational forces are a result of geometry**: The force we experience as gravity is not a pull between two objects but rather a consequence of their motion through the curved spacetime.
+3. **Equivalence principle**: The effects of acceleration and gravity are equivalent; an observer in a gravitational field will experience the same effects as one who is accelerating at a constant rate.
+
+**Key Implications**
+
+The theory of relativity has far-reaching implications for our understanding of the universe:
+
+1. **Time and space are relative, not absolute**: Time and space are not fixed entities but depend on the observer's frame of reference.
+2. **Gravity is not a force between objects**: Gravity is a consequence of the geometry of spacetime, rather than an attractive force between two masses.
+3. **The speed of light is a universal limit**: Nothing can reach or exceed the speed of light in vacuum, as it would require an object to have infinite energy.
+4. **Mass-energy equivalence**: Mass and energy are interchangeable, as expressed by the famous equation E=mc².
+
+The theory of relativity has been extensively tested and confirmed through numerous experiments and observations in various fields, including particle physics, astrophysics, and cosmology. It remains a cornerstone of modern physics and continues to shape our understanding of the universe.
